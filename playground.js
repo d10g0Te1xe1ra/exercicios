@@ -14,3 +14,4 @@ const idade = 15
 const nacionalidade = 'Portuguesa';
 const animePreferido = 'My Star'
 console.log(`O meu nome é ${primeiroNome} ${ultimoNome}. Eu tenho ${idade} anos de idade. Tenho nacionalidade ${nacionalidade}. E o meu anime preferido é ${animePreferido}. `)
+
